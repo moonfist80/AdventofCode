@@ -1,1 +1,3 @@
 # AdventofCode
+
+I'm stashing my Advent of Code stuff here.  We'll see how many days I get through...
